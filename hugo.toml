@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru-ru'
+title = 'Hugo Site Melnikova'
+theme = 'PaperMod'
